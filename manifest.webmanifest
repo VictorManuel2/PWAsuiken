@@ -1,0 +1,51 @@
+{
+    "name": "S'ui k'ien",
+    "short_name": "Chjma-Chaxo-o",
+    "description": "Musica en Mazateco",
+    "icons": [
+      {
+        "src": "icons/chajma-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-168.png",
+        "sizes": "168x168",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/chajma-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/PWASuiken1/index.html",
+    "display": "fullscreen",
+    "theme_color": "#272C30",
+    "background_color": "#272C30"
+  }
