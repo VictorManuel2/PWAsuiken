@@ -11,6 +11,15 @@
     <title>Chajma</title>
     <link rel="manifest" href="manifest.webmanifest" />
     <script src="app.js"></script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      window.OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "d0a034a2-e91d-490e-9d2a-fecb8372eeb8",
+        });
+      });
+    </script>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
