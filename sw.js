@@ -9,6 +9,7 @@ workbox.precaching.precacheAndRoute([
   'icons/offline.jpg',
   'css/bootstrap.css',
   'style.css',
+  'js/bootstrap.bundle.min.js',
 ]);
 
 workbox.routing.registerRoute(
