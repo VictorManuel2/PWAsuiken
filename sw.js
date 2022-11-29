@@ -6,7 +6,8 @@ workbox.precaching.precacheAndRoute([
   'index.html',
   'offline.html',
   'musica.html',
-  'icons/offline.jpg'
+  'icons/offline.jpg',
+  'style.css',
 ]);
 
 workbox.routing.registerRoute(
