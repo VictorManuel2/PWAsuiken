@@ -6,6 +6,7 @@ workbox.precaching.precacheAndRoute([
   'index.html',
   'offline.html',
   'musica.html',
+  'music.js',
   'icons/offline.jpg',
   'css/bootstrap.css',
   'style.css',
