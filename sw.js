@@ -7,12 +7,7 @@ workbox.precaching.precacheAndRoute([
   'offline.html',
   'musica.html',
   'music.js',
-  'icons/offline.jpg',
   'css/bootstrap.css',
-  'icons/fondo.jpg',
-  'icons/fondo4.jpg',
-  'icons/fondo3.jpg',
-  'css/bootstrap.min.css',
   'style.css',
   'js/bootstrap.bundle.min.js',
 ]);
