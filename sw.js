@@ -7,6 +7,7 @@ workbox.precaching.precacheAndRoute([
   'offline.html',
   'musica.html',
   'music.js',
+  'Audio.mp3',
   'css/bootstrap.css',
   'style.css',
   'js/bootstrap.bundle.min.js',
