@@ -4,9 +4,9 @@ importScripts(
 
 workbox.precaching.precacheAndRoute([
   'index.html',
-  'offline.html',
   'musica.html',
   'music.js',
+  'offline.html',
   'icons/fondo3.jpg',
   'icons/fondo.jpg',
   'icons/fondo4.jpg',
